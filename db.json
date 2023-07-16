@@ -1,0 +1,701 @@
+{
+    "SebaranResntra":[
+        {
+            "id" : 1,
+            "UnitKerja":"Fakultas Teknik",
+            "Tahun":2021
+        },
+        {
+            "id" : 2,
+            "UnitKerja":"Fakultas Agama Islam",
+            "Tahun":2021
+        },
+        {
+            "id" : 3,
+            "UnitKerja":"Fakultas Sosial & Humaniora",
+            "Tahun":2021
+        },
+        {
+            "id" : 4,
+            "UnitKerja":"Fakultas Kesehatan",
+            "Tahun":2021
+        },
+        {
+            "id" : 5,
+            "UnitKerja":"Fakultas Teknik",
+            "Tahun":2022
+        },
+        {
+            "id" : 6,
+            "UnitKerja":"Fakultas Agama Islam",
+            "Tahun":2022
+        },
+        {
+            "id" : 7,
+            "UnitKerja":"Fakultas Sosial & Humaniora",
+            "Tahun":2022
+        },
+        {
+            "id" : 8,
+            "UnitKerja":"Fakultas Kesehatan",
+            "Tahun":2022
+        }
+
+    ],
+    "DataRenstra":[
+        {
+            "id" : 1,
+            "bidangRenstra" : "Pendidikan",
+            "program": "Kajian Keilmuan",
+            "tahun" : "2023",
+            "indikator" :"keterserapan Materi Pembelajaran",
+            "tujuan" : "Sukses Usia Dini",
+            "kondisi" : "layak pakai",
+            "baseLine" : "______",
+            "sasaran" : "Masyarakat",
+            "standar" :"tinggi",
+            "file" :"file.pdf"
+        },
+        {
+            "id" : 2,
+            "bidangRenstra" : "Pendidikan",
+            "program": "Kajian Keilmuan",
+            "tahun" : "2023",
+            "indikator" :"keterserapan Materi Pembelajaran",
+            "tujuan" : "Sukses Usia Dini",
+            "kondisi" : "layak pakai",
+            "baseLine" : "______",
+            "sasaran" : "Masyarakat",
+            "standar" :"tinggi",
+            "file" :"file.pdf"
+        },
+        {
+            "id" : 3,
+            "bidangRenstra" : "Pendidikan",
+            "program": "Kajian Keilmuan",
+            "tahun" : "2023",
+            "indikator" :"keterserapan Materi Pembelajaran",
+            "tujuan" : "Sukses Usia Dini",
+            "kondisi" : "layak pakai",
+            "baseLine" : "______",
+            "sasaran" : "Masyarakat",
+            "standar" :"tinggi",
+            "file" :"file.pdf"
+        },
+        {
+            "id" : 4,
+            "bidangRenstra" : "Pendidikan",
+            "program": "Kajian Keilmuan",
+            "tahun" : "2023",
+            "indikator" :"keterserapan Materi Pembelajaran",
+            "tujuan" : "Sukses Usia Dini",
+            "kondisi" : "layak pakai",
+            "baseLine" : "______",
+            "sasaran" : "Masyarakat",
+            "standar" :"tinggi",
+            "file" :"file.pdf"
+        },
+        {
+            "id" : 5,
+            "bidangRenstra" : "Pendidikan",
+            "program": "Kajian Keilmuan",
+            "tahun" : "2023",
+            "indikator" :"keterserapan Materi Pembelajaran",
+            "tujuan" : "Sukses Usia Dini",
+            "kondisi" : "layak pakai",
+            "baseLine" : "______",
+            "sasaran" : "Masyarakat",
+            "standar" :"tinggi",
+            "file" :"file.pdf"
+        },
+        {
+            "id" : 6,
+            "bidangRenstra" : "Pendidikan",
+            "program": "Kajian Keilmuan",
+            "tahun" : "2023",
+            "indikator" :"keterserapan Materi Pembelajaran",
+            "tujuan" : "Sukses Usia Dini",
+            "kondisi" : "layak pakai",
+            "baseLine" : "______",
+            "sasaran" : "Masyarakat",
+            "standar" :"tinggi",
+            "file" :"file.pdf"
+        },
+        {
+            "id" : 7,
+            "bidangRenstra" : "Pendidikan",
+            "program": "Kajian Keilmuan",
+            "tahun" : "2023",
+            "indikator" :"keterserapan Materi Pembelajaran",
+            "tujuan" : "Sukses Usia Dini",
+            "kondisi" : "layak pakai",
+            "baseLine" : "______",
+            "sasaran" : "Masyarakat",
+            "standar" :"tinggi",
+            "file" :"file.pdf"
+        }
+    ],
+    "TahunRenstra":[
+        {
+            "id" : 1,
+            "tahunRenstra" : "2023-2027",
+            "status": "aktif"
+        },
+        {
+            "id" : 1,
+            "tahunRenstra" : "2028-2032",
+            "status": "aktif"
+        },
+        {
+            "id" : 1,
+            "tahunRenstra" : "2033-2037",
+            "status": "aktif"
+        },
+        {
+            "id" : 1,
+            "tahunRenstra" : "2038-2042",
+            "status": "aktif"
+        }
+    ],
+    "BidangRenstra":[
+        {
+            "id" : 1,
+            "bidangRenstra" : "Pendidikan",
+            "status": "aktif"
+        },
+        {
+            "id" : 2,
+            "bidangRenstra" : "Pengabdian",
+            "status": "aktif"
+        },
+        {
+            "id" : 3,
+            "bidangRenstra" : "Sosial",
+            "status": "aktif"
+        },
+        {
+            "id" : 4,
+            "bidangRenstra" : "Budaya",
+            "status": "aktif"
+        },
+        {
+            "id" : 5,
+            "bidangRenstra" : "Pendidikan",
+            "status": "aktif"
+        },
+        {
+            "id" : 6,
+            "bidangRenstra" : "kemasyarakatan",
+            "status": "aktif"
+        },
+        {
+            "id" : 7,
+            "bidangRenstra" : "sosial budaya",
+            "status": "aktif"
+        }
+    ],
+    "ProgramKerja":[
+        {
+            "id" : 1,
+            "tahunRkat" : "2023",
+            "programKerja" : "Pendidikan",
+            "penjab" : "Kaprodi",
+            "waktuPelaksanaan" : "26/03/2022",
+            "plotinganDana" : "25.000.000",
+            "namaKegiatan" : "Nama Kegiatan",
+            "status": "aktif"
+        },
+        {
+            "id" : 2,
+            "tahunRkat" : "2023",
+            "programKerja" : "Pemderdayaan Masyarakat",
+            "penjab" : "Kaprodi",
+            "waktuPelaksanaan" : "26/03/2022",
+            "plotinganDana" : "25.000.000",
+            "namaKegiatan" : "Nama Kegiatan",
+            "status": "aktif"
+        },
+        {
+            "id" : 3,
+            "tahunRkat" : "2023",
+            "programKerja" : "Pengabdian",
+            "penjab" : "Kaprodi",
+            "waktuPelaksanaan" : "26/03/2022",
+            "plotinganDana" : "25.000.000",
+            "namaKegiatan" : "Nama Kegiatan",
+            "status": "aktif"
+        },
+        {
+            "id" : 4,
+            "tahunRkat" : "2023",
+            "programKerja" : "Pengabdian santri",
+            "penjab" : "Kaprodi",
+            "waktuPelaksanaan" : "26/03/2022",
+            "plotinganDana" : "25.000.000",
+            "namaKegiatan" : "Nama Kegiatan",
+            "status": "aktif"
+        }
+    ],
+    "DataRKAT":[
+       {
+                "id" : 1,
+                "tahunRenstra" : 2021,
+                "bidangRenstra":"Budaya",
+                "programRenstra" : "Program Renstra",
+                "tahunRkat" : "2021",
+                "baseline" : "Baseline Baseline"
+            },
+       {
+                "id" : 2,
+                "tahunRenstra" : 2022,
+                "bidangRenstra":"Pendidikan",
+                "programRenstra" : "Program Renstra",
+                "tahunRkat" : "2021",
+                "baseline" : "Baseline Baseline"
+            },
+       {
+                "id" : 3,
+                "tahunRenstra" : 2023,
+                "bidangRenstra":"Sosial",
+                "programRenstra" : "Program Renstra",
+                "tahunRkat" : "2021",
+                "baseline" : "Baseline Baseline"
+            },
+       {
+                "id" : 4,
+                "tahunRenstra" : 2024,
+                "bidangRenstra":"sosial budaya",
+                "programRenstra" : "Program Renstra",
+                "tahunRkat" : "2021",
+                "baseline" : "Baseline Baseline"
+            },
+       {
+                "id" : 5,
+                "tahunRenstra" : 2025,
+                "bidangRenstra":"Budaya",
+                "programRenstra" : "Program Renstra",
+                "tahunRkat" : "2021",
+                "baseline" : "Baseline Baseline"
+            },
+       {
+                "id" : 6,
+                "tahunRenstra" : 2026,
+                "bidangRenstra":"Budaya",
+                "programRenstra" : "Program Renstra",
+                "tahunRkat" : "2021",
+                "baseline" : "Baseline Baseline"
+            },
+       {
+                "id" : 7,
+                "bidangRenstra":"Budaya",
+                "tahunRenstra" : 2027,
+                "programRenstra" : "Program Renstra",
+                "tahunRkat" : "2021",
+                "baseline" : "Baseline Baseline"
+            }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Automotive"
+        },
+        {
+            "id": 2,
+            "name": "Baby"
+        },
+        {
+            "id": 3,
+            "name": "Books"
+        },
+        {
+            "id": 4,
+            "name": "Computers"
+        },
+        {
+            "id": 5,
+            "name": "Electronics"
+        },
+        {
+            "id": 6,
+            "name": "Games"
+        },
+        {
+            "id": 7,
+            "name": "Garden"
+        },
+        {
+            "id": 8,
+            "name": "Grocery"
+        },
+        {
+            "id": 9,
+            "name": "Health"
+        },
+        {
+            "id": 10,
+            "name": "Home"
+        },
+        {
+            "id": 11,
+            "name": "Industrial"
+        },
+        {
+            "id": 12,
+            "name": "Jewelery"
+        },
+        {
+            "id": 13,
+            "name": "Kids"
+        },
+        {
+            "id": 14,
+            "name": "Movies"
+        },
+        {
+            "id": 15,
+            "name": "Music"
+        },
+        {
+            "id": 16,
+            "name": "Shoes"
+        },
+        {
+            "id": 17,
+            "name": "Tools"
+        },
+        {
+            "id": 18,
+            "name": "Toys"
+        }
+    ],
+
+    "products": [
+        {
+            "id": 1,
+            "name": "Intelligent Granite Table",
+            "categoryId": 17,
+            "category": "Tools",
+            "price": 787
+        },
+        {
+            "id": 2,
+            "name": "Handcrafted Rubber Hat",
+            "category": "Games",
+            "categoryId": 6,
+            "price": 232
+        },
+        {
+            "id": 3,
+            "name": "Rustic Concrete Salad",
+            "category": "Jewelery",
+            "categoryId": 12,
+            "price": 115
+        },
+        {
+            "id": 4,
+            "name": "Gorgeous Concrete Pizza",
+            "category": "Garden",
+            "categoryId": 7,
+            "price": 250
+        },
+        {
+            "id": 5,
+            "name": "Refined Plastic Shoes",
+            "category": "Health",
+            "categoryId": 9,
+            "price": 844
+        },
+        {
+            "id": 6,
+            "name": "Awesome Metal Soap",
+            "categoryId": 17,
+            "category": "Tools",
+            "price": 326
+        },
+        {
+            "id": 7,
+            "name": "Intelligent Fresh Mouse",
+            "category": "Home",
+            "categoryId": 10,
+            "price": 783
+        },
+        {
+            "id": 8,
+            "name": "Licensed Soft Keyboard",
+            "category": "Music",
+            "categoryId": 15,
+            "price": 361
+        },
+        {
+            "id": 9,
+            "name": "Fantastic Rubber Pants",
+            "category": "Garden",
+            "categoryId": 7,
+            "price": 786
+        },
+        {
+            "id": 10,
+            "name": "Awesome Rubber Ball",
+            "category": "Automotive",
+            "categoryId": 1,
+            "price": 696
+        },
+        {
+            "id": 11,
+            "name": "Handcrafted Soft Pizza",
+            "category": "Health",
+            "categoryId": 9,
+            "price": 31
+        },
+        {
+            "id": 12,
+            "name": "Practical Soft Chips",
+            "category": "Computers",
+            "categoryId": 4,
+            "price": 795
+        },
+        {
+            "id": 13,
+            "name": "Practical Frozen Shirt",
+            "category": "Kids",
+            "categoryId": 13,
+            "price": 879
+        },
+        {
+            "id": 14,
+            "name": "Unbranded Plastic Car",
+            "category": "Toys",
+            "categoryId": 18,
+            "price": 454
+        },
+        {
+            "id": 15,
+            "name": "Handcrafted Plastic Table",
+            "category": "Shoes",
+            "categoryId": 16,
+            "price": 189
+        },
+        {
+            "id": 16,
+            "name": "Intelligent Plastic Car",
+            "category": "Grocery",
+            "categoryId": 8,
+            "price": 202
+        },
+        {
+            "id": 17,
+            "name": "Ergonomic Wooden Pizza",
+            "category": "Electronics",
+            "categoryId": 5,
+            "price": 801
+        },
+        {
+            "id": 18,
+            "name": "Refined Rubber Pants",
+            "category": "Home",
+            "categoryId": 10,
+            "price": 580
+        },
+        {
+            "id": 19,
+            "name": "Small Frozen Hat",
+            "category": "Music",
+            "categoryId": 15,
+            "price": 654
+        },
+        {
+            "id": 20,
+            "name": "Unbranded Cotton Chips",
+            "categoryId": 17,
+            "category": "Tools",
+            "price": 305
+        },
+        {
+            "id": 21,
+            "name": "Unbranded Plastic Chicken",
+            "category": "Baby",
+            "categoryId": 2,
+            "price": 943
+        },
+        {
+            "id": 22,
+            "name": "Rustic Fresh Pizza",
+            "category": "Toys",
+            "categoryId": 18,
+            "price": 647
+        },
+        {
+            "id": 23,
+            "name": "Ergonomic Metal Tuna",
+            "category": "Industrial",
+            "categoryId": 11,
+            "price": 51
+        },
+        {
+            "id": 24,
+            "name": "Unbranded Frozen Chicken",
+            "category": "Movies",
+            "categoryId": 14,
+            "price": 248
+        },
+        {
+            "id": 25,
+            "name": "Ergonomic Cotton Table",
+            "category": "Baby",
+            "categoryId": 2,
+            "price": 4
+        },
+        {
+            "id": 26,
+            "name": "Handmade Frozen Pants",
+            "category": "Home",
+            "categoryId": 10,
+            "price": 731
+        },
+        {
+            "id": 27,
+            "name": "Rustic Cotton Bike",
+            "category": "Jewelery",
+            "categoryId": 12,
+            "price": 161
+        },
+        {
+            "id": 28,
+            "name": "Licensed Metal Bacon",
+            "category": "Books",
+            "categoryId": 3,
+            "price": 331
+        },
+        {
+            "id": 29,
+            "name": "Practical Cotton Soap",
+            "category": "Books",
+            "categoryId": 3,
+            "price": 861
+        },
+        {
+            "id": 30,
+            "name": "Sleek Frozen Tuna",
+            "category": "Electronics",
+            "categoryId": 5,
+            "price": 375
+        }
+    ],
+    "LPJ":[
+        {
+            "id": 1,
+            "namaUnitKerja":"FT",
+            "namaKegiatan":"Nama Kegiatan",
+            "tanggalPengajuan":"tanggalPengajuan",
+            "deskripsiKegiatan":"deskripsiKegiatan",
+            "totalDana":"totalDana",
+            "danaACC":"danaACC",
+            "tanggal" :"tanggal",
+            "pathDokumen" : "pathDokumen",
+            "tanggalPengecekan":"tanggalPengecekan",
+            "nominal":"nominal"
+
+
+        },
+        {
+            "id": 2,
+            "namaUnitKerja":"FT",
+            "namaKegiatan":"Nama Kegiatan",
+            "tanggalPengajuan":"tanggalPengajuan",
+            "deskripsiKegiatan":"deskripsiKegiatan",
+            "totalDana":"totalDana",
+            "danaACC":"danaACC",
+            "tanggal" :"tanggal",
+            "pathDokumen" : "pathDokumen",
+            "tanggalPengecekan":"tanggalPengecekan",
+            "nominal":"nominal"
+
+
+        },
+        {
+            "id": 3,
+            "namaUnitKerja":"FT",
+            "namaKegiatan":"Nama Kegiatan",
+            "tanggalPengajuan":"tanggalPengajuan",
+            "deskripsiKegiatan":"deskripsiKegiatan",
+            "totalDana":"totalDana",
+            "danaACC":"danaACC",
+            "tanggal" :"tanggal",
+            "pathDokumen" : "pathDokumen",
+            "tanggalPengecekan":"tanggalPengecekan",
+            "nominal":"nominal"
+
+
+        },
+        {
+            "id": 4,
+            "namaUnitKerja":"FT",
+            "namaKegiatan":"Nama Kegiatan",
+            "tanggalPengajuan":"tanggalPengajuan",
+            "deskripsiKegiatan":"deskripsiKegiatan",
+            "totalDana":"totalDana",
+            "danaACC":"danaACC",
+            "tanggal" :"tanggal",
+            "pathDokumen" : "pathDokumen",
+            "tanggalPengecekan":"tanggalPengecekan",
+            "nominal":"nominal"
+
+
+        },
+        {
+            "id": 5,
+            "namaUnitKerja":"FT",
+            "namaKegiatan":"Nama Kegiatan",
+            "tanggalPengajuan":"tanggalPengajuan",
+            "deskripsiKegiatan":"deskripsiKegiatan",
+            "totalDana":"totalDana",
+            "danaACC":"danaACC",
+            "tanggal" :"tanggal",
+            "pathDokumen" : "pathDokumen",
+            "tanggalPengecekan":"tanggalPengecekan",
+            "nominal":"nominal"
+
+
+        }
+      
+    ],
+    "PAGU":[
+        {
+            "id" : 1,
+            "tahun" : 2019,
+            "jumlah": "Rp.100.000.000.00",
+            "status" : "Nonaktif"
+            
+        },
+        {
+            "id" : 2,
+            "tahun" : 2020,
+            "jumlah": "Rp.100.000.000.00",
+            "status" : "Nonaktif"
+        },
+        {
+            "id" : 3,
+            "tahun" : 2021,
+            "jumlah": "Rp.100.000.000.00",
+            "status" : "Nonaktif"
+        },
+        {
+            "id" : 4,
+            "tahun" : 2022,
+            "jumlah": "Rp.100.000.000.00",
+            "status" : "Nonaktif"
+        },
+        {
+            "id" : 5,
+            "tahun" : 2023,
+            "jumlah": "Rp.100.000.000.00",
+            "status" : "aktif"
+        },
+        {
+            "id" : 6,
+            "tahun" : 2024,
+            "jumlah": "Rp.100.000.000.00",
+            "status" : "Nonaktif"
+        }
+    ]
+}
